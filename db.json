@@ -1,0 +1,137 @@
+{
+  "fullstack": [
+    {
+      "id": 1,
+      "farstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "frontend": [
+    {
+      "id": 1,
+      "farstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "java": [
+    {
+      "id": 1,
+      "farstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "dellBoomi": [
+    {
+      "id": 1,
+      "farstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "python": [
+    {
+      "id": 1,
+      "farstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "idm": [
+    {
+      "id": 1,
+      "firstname": "durga",
+      "lastname": "prasad",
+      "email": "durga@123",
+      "mobile": "123456789",
+      "gender": "male",
+      "qalification": "Bachelor of Computer science",
+      "inter college": "NRI junior college",
+      "intermarks": "79%",
+      "degree college": "Sindhu degree college",
+      "degree marks": "75%"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "durga",
+      "password": "durga@123"
+    }
+  ],
+  "registration": [
+    {
+      "id": 1,
+      "name": "durgaprasad",
+      "email": "durga@123gmail.com",
+      "phone": "1234567890",
+      "username": "durga",
+      "password": "durga@123",
+      "passwordconfirmation": "durga@123"
+    },
+    {
+      "name": "Manikarthik Chandankeri",
+      "email": "manikarthik.chandankeri@ojas-it.com",
+      "phone": "9398124090",
+      "username": "manikarthik",
+      "password": "mani@123",
+      "passwordconfirmation": "mani@123",
+      "id": 2
+    },
+    {
+      "name": "kumar Goud",
+      "email": "kumar123@gmail.com",
+      "phone": "1234567890",
+      "username": "kumar",
+      "password": "kumar@123",
+      "passwordconfirmation": "kumar@123",
+      "id": 3
+    },
+    {
+      "name": "Amer Md",
+      "email": "amer123@gmail.com",
+      "phone": "9876543210",
+      "username": "amer",
+      "password": "amer@123",
+      "passwordconfirmation": "amer@123",
+      "id": 5
+    }
+  ]
+}
